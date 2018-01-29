@@ -1,6 +1,5 @@
 WhoWasIn
 Simple MVVM application for monitoring users entranse.
 You may:
-Add entrance
 Show all entranse
 Sort/choose by date or by user
